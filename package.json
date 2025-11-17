@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Thawiat00/basic_nodejs_1/issues"
   },
-  "homepage": "https://github.com/Thawiat00/basic_nodejs_1#readme"
+  "homepage": "https://github.com/Thawiat00/basic_nodejs_1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
